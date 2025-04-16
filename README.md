@@ -1,2 +1,2 @@
 # Fruit-Segmentation
- Visual Information Processing Assignment
+ Visual Image Processing Assignment
